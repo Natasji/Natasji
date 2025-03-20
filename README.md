@@ -1,4 +1,4 @@
-# NatashaJ 
+# Natasha Jiang
 
 Recent project repositories:
 
